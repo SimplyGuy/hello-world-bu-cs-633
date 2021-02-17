@@ -1,8 +1,7 @@
-this
+This
 is
-abc
-merge part
-test part
-two
-well
-good
+a
+merge
+test
+part
+one
