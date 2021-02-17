@@ -1,1 +1,8 @@
-merge test 2
+this
+is
+abc
+merge part
+test part
+two
+well
+good
